@@ -25,7 +25,7 @@ const alt2 = "Leticia Sorrindo"
               Mais do que transformar o seu corpo, meu objetivo é transformar a sua relação com a alimentação.</p>
           </div>
           <p class="text-textColor font-text text-xl">Através de um acompanhamento individualizado,
-            construímos hábitos sustentáveis, promovemos equilíbrio e alcançamos resultadosque permanecem, sem
+            construímos hábitos sustentáveis, promovemos equilíbrio e alcançamos resultados que permanecem, sem
             restrições extremas e sem fórmulas prontas.</p>
         </div>
       </div>
